@@ -1,0 +1,4 @@
+rootfs-base/
+rootfs/
+rootfs-*/
+*.tar.gz
